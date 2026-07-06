@@ -1,5 +1,10 @@
 # Building Instructions
 
+-Combine the 4 parts of the Raspberry Pi image, with 
+  -cat raspberry_pi_backup.img.gz.part* > raspberry_pi_backup.img.gz # Command for Linux and macOS
+  -copy /b raspberry_pi_backup.img.gz.part1 + raspberry_pi_backup.img.gz.part2 + raspberry_pi_backup.img.gz.part3 + raspberry_pi_backup.img.gz.part4 raspberry_pi_backup.img.gz # Command for Windows 
+
+
 -Flash the Raspberry Pi image onto a blank, formatted Micro SD Card.
 
 -Insert the SD Card in the Raspberry Pi.
