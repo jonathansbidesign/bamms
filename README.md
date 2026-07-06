@@ -8,7 +8,7 @@
 
 -Follow assembly instructions from exploded view and technical drawings.
 
--A BTR-12 screw must be added to the included threaded for the motor connector, to reduce wear and tear when in contact with the motor shaft.
+-An M3-12 screw must be added to the included threaded for the motor connector, to reduce wear and tear when in contact with the motor shaft.
 
 -Perform electronic connections by following electronic schematics.
 
@@ -66,4 +66,6 @@ To offload on-device data from the Raspberry Pi, either perform an SSH connectio
 
 -60W, 12V power supply (e.g., Meanwell LPV-60-12) (around 40 euros)
 
--1 spool of PLA (total material usage should be around 698 grams) (around 20 euros
+-1 spool of PLA (total material usage should be around 698 grams) (around 20 euros)
+
+-1 M3-12 screw
